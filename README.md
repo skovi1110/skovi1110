@@ -12,6 +12,7 @@
 - 🗄️ Database: MySQL
 - 🤖 Interested in AI & Software Development
 - 📫 Email: skovi1110@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/oviya-sivakumar-1405b13
 
 ---
 
