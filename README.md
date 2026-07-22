@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="ovishri.png" alt="Banner" width="100%">
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Oviya+Sivakumar;Final+Year+CSE+Student;Java+Developer;Spring+Boot+Developer;AI+Enthusiast;Always+Learning+New+Things🚀" />
